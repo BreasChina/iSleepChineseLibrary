@@ -1,0 +1,12 @@
+Check of Data in C:\Users\Administrator\Desktop\zh\Chinese.cp 
+
+Number of Ranges = 1  Default Character = 0x0020
+
+Range     SymbolBase  SymbolEnd   StartChar   EndChar
+0x000     0x0000      0x0000      0x0000      0x0000
+
+Check of File : Chinese.cp 
+
+Warning : Elements From 0x0001 To 0x00BF Unused
+
+0 Errors , 1 Warnings
